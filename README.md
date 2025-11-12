@@ -1,2 +1,2 @@
-# Server_US_PROJECT
+# AZURE CLOUD Server_US_PROJECT
 This is our US server Project based on Azure cloud
